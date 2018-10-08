@@ -1,0 +1,13 @@
+.seriesList {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.listURL:hover {
+  color: rgb(194, 28, 83);
+  text-decoration: none;
+  padding-left: 0;
+}
+.listURL {
+  color: white;
+}
